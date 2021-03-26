@@ -9,4 +9,4 @@ HW2 - The second project from the UC-Berkeley Pac-man problems
 
 HW3 - A short graph problem in SWI Prolog
 
-HW4 = Wumpus World problem in SWI Prolog
+HW4 - Wumpus World problem in SWI Prolog
